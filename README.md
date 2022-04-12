@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Harshini
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and Data Visualizations
+- 💞️ I’m looking to collaborate and work on Data Science Projects
+- 📫 You can reach me on harshinivibhu2920@gmail.com
